@@ -1,5 +1,5 @@
 import java.util.Scanner;
-	/* Judy Marie Delos Reyes | CS206-01 | January 12, 2022 */
+
 public class minutesConversion {
 
 	public static void main(String[] args) {
