@@ -3,7 +3,6 @@ import javax.swing.*;
 public class tixNumRevised {
 
 	public static void main(String[] args) {
-		// Judy Marie Delos Reyes | CS 206-01 | January 22, 2022
 		
 			// input dialog box to enter ticket #
 		String ticketEntry = JOptionPane.showInputDialog(null, "Enter six digit ticket number: ");
