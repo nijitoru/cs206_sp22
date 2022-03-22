@@ -1,7 +1,3 @@
-//Class name: pay
-//Purpose: interactive app that calculates net pay for factory worker
-//Programmer: Judy Marie Delos Reyes on March 22, 2022
-
 import javax.swing.*;
 
 public class pay {
